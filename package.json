@@ -1,7 +1,7 @@
 {
   "name": "PathToTarkov-Additions",
   "author": "trap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "akiVersion": "2.2.*",
   "license": "MIT",
   "main": "package.js"
