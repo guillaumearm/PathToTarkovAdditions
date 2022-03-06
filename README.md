@@ -1,7 +1,7 @@
 # Path To Tarkov Additions
 Addon mod for [Path To Tarkov](https://github.com/guillaumearm/PathToTarkov) that allow to setup additional restrictions
 
-By default this mod does nothing, you have to configure it by yourself, please refer to the Path To Tarkov default config file.
+By default this mod does nothing, you have to configure it by yourself, please refer to the Path To Tarkov default config file to get exfiltration ids, etc...
 
 ## Limitations
 When completing a quest, you have to do one raid before changes are taken into account, this is due to some client game restrictions.
